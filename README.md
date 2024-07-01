@@ -38,10 +38,5 @@ The notebook includes the following analyses and visualizations related to the L
 - `pandas`: For data manipulation and analysis.
 - `matplotlib`: For data visualization and plotting charts.
 
-## HTML Report
-
-View the interactive HTML report below:
-
-<iframe width="100%" height="500px" src="https://gr2100.github.io/Lok_sabha_Analysis/report.html"></iframe>
 
 
